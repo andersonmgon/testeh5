@@ -1,3 +1,7 @@
 esse é o segundo arquivo
 linha 2 --- go
+<<<<<<< HEAD
 o sabado está chgando
+=======
+hoje é segunda feira
+>>>>>>> f92f0d916aa277e37863cc492b50b8daef2e3622
