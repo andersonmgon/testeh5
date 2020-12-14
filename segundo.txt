@@ -2,3 +2,4 @@ esse é o segundo arquivo
 linha 2 --- go
 hoje é segunda feira
 amanha é tercá feira
+depois de amanha é quarta feira
